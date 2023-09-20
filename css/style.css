@@ -19,6 +19,8 @@ footer{
     margin:0px auto;
     background: #9575CD ;
     color:floralwhite;
+    max-width:100%;
+    width:100%;
 }
 
 address{
@@ -33,4 +35,13 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+.mtx-30{
+    margin-top: -30px;
+}
+.flex{
+    display:flex;
+}
+body{
+    padding:0;
 }
